@@ -1,3 +1,3 @@
 # hello-world
-My Repository
+My Repository.
 I'm a Techie
